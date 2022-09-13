@@ -29,5 +29,3 @@ https://plohotski.github.io/photographer-s-portfolio/
 4. CSS preprocessors allowed (`Sass`), `normalize.css`
 5. it is not recommended to use reset styles with `reset.css`
 6. it is forbidden to add a layout as a picture when a screenshot of a part of the layout is made and inserted into the layout. For layout, use tags and symbols, images and icons can be added with pictures, not layout elements (buttons, blocks, sections)
-
-
