@@ -13,7 +13,8 @@ Portfolio is a task during which you create a landing page for a photographer's 
 ## Preview
 ![image](https://user-images.githubusercontent.com/83242738/190000646-a01919a5-e8c3-4f0e-8be7-addcbc16dc23.png)
 
-## View 
+## View:
+https://plohotski.github.io/photographer-s-portfolio/
 
 ## Key skills:
 * valid semantic adaptive layout
